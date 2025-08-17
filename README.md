@@ -172,7 +172,7 @@
 ## 📊 GitHub Stats And Languages Used
 
 <div>
-<img  src="https://github-readme-stats.vercel.app/api?username=tsr0705&theme=dark&show_icons=true&locale=en" alt="TSR-2004" />
+<img  src="https://github-readme-stats.vercel.app/api?username=TSR-2004&theme=dark&show_icons=true&locale=en" alt="TSR-2004" />
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TSR-2004&theme=dark"></td><td width="50%" align="center">
 <img align="top-right" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TSR-2004&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 </div>
