@@ -12,169 +12,233 @@
   <a href="https://linkedin.com/in/tanmay-singh-28395b345/"><img src="https://img.shields.io/badge/LinkedIn-Tanmay%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/tanmaysinghra18"><img src="https://img.shields.io/badge/Twitter-@tanmaysinghra18-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
   <a href="mailto:tanmaysingh8246@gmail.com"><img src="https://img.shields.io/badge/Email-tanmaysingh8246@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://buymeacoffee.com/tanmaysingh"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-ff69b4?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee" /></a>
+  <!-- <a href="https://buymeacoffee.com/tanmaysingh"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-ff69b4?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee" /></a> -->
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on [**Samvidhan Setu – An AI-Powered Legal Research & Virtual Court Platform**](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU.git)  
-  ⮕ Built a complete **OTP-verified, role-based authentication system** with JWT and role-based routes this summer.
+- 🔭 I’m currently working on [**Webloom – A Distributed Web Monitoring Platform**](https://github.com/TSR0705/WEBLOOM)  
+  ⮕ Completed Phase-4 featuring containerized workers, RabbitMQ pipelines, automated scraping, and structured storage.
 
-- 🧠 I’m researching & building [**IndiSure**](https://github.com/TSR0705) – AI + Blockchain based counterfeit drug detection solution.  
-  ⮕ Looking for **blockchain experts** and **product designers/brand strategists** to collaborate.
+- 🧠 Advancing [**FileX Phase-2 – Secure File-Change Detection System**](https://github.com/TSR0705/FILE-X)  
+  ⮕ Adding dashboard visualization, persistent logs, multi-user tracking, and event-based alerting.
 
-- 🌱 I’m currently learning **Backend Development (Node.js, Express, MongoDB)** through real-world projects  
-  ⮕ Next focus: **Data Structures & Algorithms in Java**
+- 🌱 I’m currently deepening backend & cloud engineering (Node.js, Express, MongoDB, Docker, RabbitMQ) through real-world deployments  
+  ⮕ Next focus: scalable Kubernetes execution & CI workflows for distributed agents.
 
-- 📚 I’m building [**Backend Concepts**](https://github.com/TSR0705/BACKEND-CONCEPTS) – a Node.js backend learning series  
-  ⮕ Includes role-based auth, mailing, file uploads, error handling, and more (10+ modules)
+- 📚 Previously built [**Backend Concepts**](https://github.com/TSR0705/BACKEND-CONCEPTS) – a backend learning series  
+  ⮕ Includes role-based auth, mailing workflows, file handling, modular service design & middleware architecture.
 
-- 👯 I’m open to collaborate on any **AI-powered**, **blockchain-driven**, or **socially impactful** product ideas  
-  ⮕ Especially around **legaltech**, **pharmatech**, and **edtech** domains.
+- 👯 I’m open to collaborate on backend-heavy, distributed or cloud-driven projects  
+  ⮕ Especially in monitoring pipelines, scheduling systems, platform automation & multi-tenant applications.
 
 - 💬 Ask me about:  
-  `HTML` · `CSS` · `JavaScript` · `React` · `Tailwind` · `Node.js` · `Express.js` · `MongoDB ` · `Postman Testing` · `Socket.IO` · `NPM` · `Rest API`
+  `HTML` · `CSS` · `JavaScript` · `React` · `Tailwind` · `Node.js` · `Express.js` · `MongoDB`  
+  `Docker` · `RabbitMQ` · `Postman` · `REST APIs` · `Authentication Systems`
 
 - 🎖️ Certified & Skilled In:  
-  `MongoDB for Node.js Developers` · `AWS Cloud Architecting` · `IBM Cloud Essentials`  
-  `Infosys AI & GenAI Courses` · `Google Cloud: Gemini AI Tools` · `Microsoft GenAI Concepts`
+  [`AWS Cloud Architecting`](https://www.credly.com/badges/7d0ca0e5-e325-4292-9eb1-b85199879a35/linked_in_profile) · 
+  [`MongoDB Node.js Developer Track`](https://learn.mongodb.com/c/sa5EerMMTWu5ca3ZZJmKJA) · 
+  [`IBM Cloud Essentials`](https://courses.cognitiveclass.ai/certificates/2a38471ed1ca449bb6e67f3a6360253e)  
+  [`Google Cloud – Application Developer`](https://www.skills.google/public_profiles/65d19b01-96a4-46db-85db-4843600c62f2/badges/16816233) · 
+  [`Cloud Architecture`](https://www.skills.google/public_profiles/65d19b01-96a4-46db-85db-4843600c62f2/badges/15587497) · 
+  [`Security Engineer`](https://www.skills.google/public_profiles/65d19b01-96a4-46db-85db-4843600c62f2/badges/15587765) · 
+  [`SDLC & Quality`](https://www.skills.google/public_profiles/65d19b01-96a4-46db-85db-4843600c62f2/badges/15587835)
 
-- ⚡ **Motto:** _"Serving the nation with every line of code."_
 
-- 🤖 **Fun Fact:** I treat AI like my co-founder and **GitHub like my diary.** 😄
+- ⚡ **Motto:** _"Build systems that scale today and stay relevant tomorrow."_  
+
+- 🤖 **Fun Fact:** I treat architecture diagrams like recipes and GitHub as my execution journal. 😄
+
 ---
 
 ## 🚀 Featured Projects
 
 <details>
+<summary><strong>Webloom</strong> – Distributed Web Monitoring Platform</summary>
+
+- 🔗 **Repo:** [WEBLOOM](https://github.com/TSR0705/WEBLOOM)
+- 🛠 **Tech:** Node.js | Docker | RabbitMQ | MongoDB | Next.js | Railway
+- ⭐ **Highlights:** Distributed workers that scrape pages autonomously, detect UI/price/content changes, version comparison UI, dashboard for real-time job tracking.
+</details>
+
+<details>
+<summary><strong>FileX</strong> – Insider File Leak Detection System</summary>
+
+- 🔗 **Repo:** [FILEX](https://github.com/TSR0705/FILE-X)  
+- 🛠 **Tech:** Java | JavaFX | SQLite | SHA-256 fingerprinting
+- ⭐ **Highlights:** Detects unauthorized file tampering, persistent audit logging, alerts dashboard, awarded 3rd Prize at SRM Java Expo 2025.
+</details>
+
+<details>
+<summary><strong>Smart Tab Organiser</strong> – AI-Based Browser Tab Clustering</summary>
+
+- 🔗 **Repo:** [SMART-TAB-ORGANISER](https://github.com/TSR0705/SMART-TAB-ORGANISER)
+- 🛠 **Tech:** Python | FastAPI | Docker | Semantic Embeddings | Chrome Extension
+- ⭐ **Highlights:** Clusters browser tabs using embeddings-based similarity, serves clustering through REST API, auto-organizes tab groups.
+</details>
+
+<!-- <details>
 <summary><strong>Agentic AI Project</strong> – Real-Time Conversational Agent System</summary>
 
-- 🔗 **Repo:** [AGENTIC-AI-PROJECT](https://github.com/TSR0705/AGENTIC-AI-PROJECT)  
-- 🛠 **Tech:** Node.js | Express | Whisper | OpenAI API | Socket.IO *(expanding…)*  
-- ⭐ **Highlights:** Passive agentic AI listener that responds to human & AI messages on trigger (e.g., `@what`)
+- 🔗 **Repo:** [AGENTIC-AI-PROJECT](https://github.com/TSR0705/AGENTIC-AI-PROJECT)
+- 🛠 **Tech:** Node.js | Express | Whisper | Generative AI APIs | Socket.IO
+- ⭐ **Highlights:** Passive listener agent that joins conversations and responds contextually when triggered.
+</details> -->
+
+<details>
+<summary><strong>Backend Concepts</strong> – End-to-End Backend Learning Series</summary>
+
+- 🔗 **Repo:** [BACKEND-CONCEPTS](https://github.com/TSR0705/BACKEND-CONCEPTS)
+- 🛠 **Tech:** Node.js | Express.js | MongoDB | JWT | Nodemailer
+- ⭐ **Highlights:** 10+ backend modules including OTP auth system, mailing pipeline, file uploads, structured API design.
 </details>
 
 <details>
-<summary><strong>Backend Concepts</strong> – Node.js Backend Learning Series</summary>
+<summary><strong>Samvidhan Setu</strong> – AI-Powered Legal Research & Courtroom</summary>
 
-- 🔗 **Repo:** [BACKEND-CONCEPTS](https://github.com/TSR0705/BACKEND-CONCEPTS)  
-- 🛠 **Tech:** Node.js | Express.js | MongoDB | JWT | Multer | Nodemailer  
-- ⭐ **Highlights:**  
-  • 10+ real-world backend modules: REST API design, file uploads, mailing, error handling, etc.  
-  • 💼 Includes advanced **Role-Based Authentication System** with:
-    - Role-protected routes (Admin/User)
-    - JWT token handling & middleware
-    - Full **OTP-based SignUp/Forgot/Reset Password** flow
+- 🔗 **Repo:** [INNOVERSE-SAMVIDHAN-SETU](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU)
+- 🛠 **Tech:** React.js | TailwindCSS | Jitsi | Gemini API | Material UI
+- ⭐ **Highlights:** AI-assisted case review, mock court hearings, role-based access for litigants, judges, and lawyers.
 </details>
 
-<details>
-<summary><strong>Samvidhan Setu</strong> – AI-Powered Legal Research & Virtual Courts</summary>
+<!-- <details>
+<summary><strong>Chess Game</strong> – Real-Time Multiplayer Chess</summary>
 
-- 🔗 **Repo:** [INNOVERSE-SAMVIDHAN-SETU](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU)  
-- 🛠 **Tech:** React.js | TailwindCSS | Framer Motion | Lottie | Gemini API | Jitsi | Material UI  
-- ⭐ **Highlights:** AI-driven case summarization, real-time courtroom UI, predictive outcome engine
-</details>
+- 🔗 **Repo:** [CHESS-GAME](https://github.com/TSR0705/CHESS-GAME)
+- 🛠 **Tech:** Node.js | Socket.IO | Chess.js | EJS | WebSockets
+- ⭐ **Highlights:** Live gameplay, drag-drop UI, auto board switching, spectators mode, real-time match state sync.
+</details> -->
 
-<details>
-<summary><strong>Chess Game</strong> – Realtime Multiplayer Chess in the Browser</summary>
+<!-- <details>
+<summary><strong>Portfolio</strong> – Personal Brand Showcase</summary>
 
-- 🔗 **Repo:** [CHESS-GAME](https://github.com/TSR0705/CHESS-GAME)  
-- 🛠 **Tech:** Node.js | Express | Socket.IO | Chess.js | EJS | Vanilla JS | Custom CSS  
-- ⭐ **Highlights:** Realtime gameplay, drag-and-drop UI, board flipping, spectators, lobby system
-</details>
+- 🔗 **Repo:** [MY-PORTFOLIO](https://github.com/TSR0705/MY_PORTFOLIO)
+- 🛠 **Tech:** Next.js | React.js | TailwindCSS | Framer Motion
+- ⭐ **Highlights:** Production-ready design, animations, dynamic sections, scalable component architecture.
+</details> -->
 
-<details>
-<summary><strong>QuizArena</strong> – Futuristic AI Quiz Platform</summary>
-
-- 🔗 **Repo:** [Quiz-Arena](https://github.com/TSR0705/Quiz-Arena)  
-- 🛠 **Tech:** React.js | Vite | TailwindCSS | Framer Motion | GSAP | React Router | Three.js | @react-three/fiber  
-- ⭐ **Highlights:** 3D-themed animated quiz interface, subject-wise quiz filtering, real-time scoring, interactive UI
-</details>
-
-<details>
-<summary><strong>Portfolio</strong> – Personal Brand & Interactive Showcase</summary>
-
-- 🔗 **Repo:** [MY-PORTFOLIO](https://github.com/TSR0705/MY-PORTFOLIO)  
-- 🛠 **Tech:** Next.js | React.js | TailwindCSS | Framer Motion | Modular UI  
-- ⭐ **Highlights:** Scalable design, Animated hero, Modern UI trends, Responsive, Easily extensible
-</details>
-
-<details>
-<summary><strong>MargSetu</strong> – Smart Pitching & Investor Matchmaking</summary>
-
-- 🔗 **Repo:** [Marg-Setu-Frontend-](https://github.com/TSR0705/Marg-Setu-Frontend-)  
-- 🛠 **Tech:** Vite | React.js | TailwindCSS | Framer Motion | Jitsi | Chart.js | Material UI  
-- ⭐ **Highlights:** Smart profiles, real-time pitching UX, investor matching, live presentations
-</details>
-
-<details>
+<!-- <details>
 <summary><strong>IndiSure</strong> – AI-Driven Counterfeit Drug Detection</summary>
 
 - 🔗 **Repo:** *(Coming soon…)*  
 - 🛠 **Tech:** *(Coming soon…)*  
 - ⭐ **Highlights:** AI for drug validation, blockchain for supply chain integrity, anti-counterfeit pipeline
-</details>
+</details> -->
 
 ---
 
 ## 📄 Experience Snapshot
 
-| Role                            | Organization / Project                                                                                          | Duration            |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------|
-| 🧠 **Founder & Lead Dev**        | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) – 🏆 GitHub Hackathon Winner (Best Freshers Team) | Feb 2025 – Present  |
-| 🤝 **Fullstack Engineer (R&D)** | IndiSure – AI + Blockchain powered drug counterfeit detection                                                   | Jan 2025 – Present  |
-| 🎯 **Frontend Engineer**        | [MargSetu](https://github.com/TSR0705/Marg-Setu-Frontend-) – 🏅 Top 10 / 3000+ teams @ CodeNex DayZero                  | Mar 2025 – Present  |
-| ✨ **UI/UX Designer & Dev**     | [QuizArena](https://github.com/TSR0705/Quiz-Arena) – Futuristic multiplayer quiz platform                        | Apr 2025 – May 2025 |
-| 🌐 **Portfolio Architect**      | [Portfolio](https://github.com/TSR0705/MY-PORTFOLIO) – Interactive Scalable personal brand site                  | Jun 2025 – Present  |
-| 🧪 **Backend Educator & Creator** | [Backend Concepts](https://github.com/TSR0705/BACKEND-CONCEPTS) – Full-stack Node.js learning series with 10 real-world backend modules | Jun 2025 – Jul 2025 |
-| 🤖 **Agentic AI Researcher**    | [Agentic AI Project](https://github.com/TSR0705/AGENTIC-AI-PROJECT) – Experimental real-time conversational AI agent system | 3 Jul 2025 – Present  |
-| ♟️ **Realtime Game Dev**        | [Chess Game](https://github.com/TSR0705/CHESS-GAME) – Multiplayer chess app using Socket.IO, EJS, and chess.js   | 28 Jun 2025 – Jul 2025 |
-| 🎓 **B.Tech CSE (9.26+ CGPA)**  | SRMIST Kattankulathur – Specialization: Cloud Computing                                                         | 2024 – 2028         |
+| Role                               | Organization / Project                                                                                                                      | Duration            |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| 🧠 **Founder & Lead Developer**    | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) – Winner (Best Freshers Team), GitHub OSSome Hacks 2.0               | Feb 2025 – Present  |
+| 🛠 **Founder & Lead Developer**    | [Webloom](https://github.com/TSR0705/WEBLOOM) – Distributed web monitoring platform (Phase-4 worker system completed)                       | Jul 2025 – Present  |
+| 🛡 **Lead Engineer**               | [FileX](https://github.com/TSR0705/FILE-X) – 3rd Place at SRM Java Expo 2025 (department-wide Java project competition)                     | Aug 2025 – Present  |
+| 🔍 **Research & Engineering**      | [Smart Tab Organiser](https://github.com/TSR0705/SMART-TAB-ORGANISER) – AI-based tab clustering engine shortlisted for internal showcases   | Oct 2025 – Present  |
+| 🎯 **Frontend Developer**          | [MargSetu](https://github.com/TSR0705/Marg-Setu-Frontend-) – Top 10 Finalist among 3000+ teams at CodeNex DayZero                           | Mar 2025 – May 2025 |
+| ⚡ **Platform Engineer**           | [WHO-I-AM](https://github.com/TSR0705/WHO-I-AM) – Achieved 100/100 Lighthouse score (Performance, Accessibility, Best Practices, SEO)       | Nov 2025 – Dec 2025 |
+| 🧪 **Educator & Content Creator**  | [Backend Concepts](https://github.com/TSR0705/BACKEND-CONCEPTS) – Built 10+ backend modules (auth, mailing, storage, errors, production APIs) | Jun 2025 – Jul 2025 |
+| 🎓 **Undergraduate Engineer**      | SRMIST – B.Tech CSE (Cloud Computing Specialization) – CGPA: 9.26 / 10                                                                      | 2024 – 2028         |
 
 ---
+
 
 # 🌐 Skills & Tools
 
-## My Skills
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=fff">
-<img src="https://img.shields.io/badge/Framer_Motion-EF477F?logo=framer&logoColor=fff">
-<!-- <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">  -->
-<!-- <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">  -->
-<!-- <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">  -->
-<!-- <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> -->
-<!-- <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TSR-2004&theme=react-dark">
+### 🚀 Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-EF477F?logo=framer&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Three.js-000?logo=three.js&logoColor=fff"/>
+</p>
+
+</td>
+<td width="25%" valign="top">
+
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B"/>
+<img src="https://img.shields.io/badge/JWT-black"/>
+<img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
+</p>
+
+</td>
+<td width="25%" valign="top">
+
+### 🗄️ DevOps & Cloud
+<p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20IAM-252F3E?logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"/>
+</p>
+
+</td>
+<td width="25%" valign="top">
+
+### 🧰 Tools & Languages
+<p>
+<img src="https://img.shields.io/badge/Postman-FC6C37?logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
-## 📊 GitHub Stats And Languages Used
+## 📌 Contribution Activity (Past 12 Months)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TSR0705&theme=react-dark">
 
-<div>
-<img  src="https://github-readme-stats.vercel.app/api?username=TSR-2004&theme=dark&show_icons=true&locale=en" alt="TSR-2004" />
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TSR-2004&theme=dark"></td><td width="50%" align="center">
-<img align="top-right" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TSR-2004&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+---
+
+## 📊 GitHub Stats & Usage Insights
+
+<div align="center">
+
+  <!-- STREAK & CONTRIBUTION TRACK -->
+  <img src="https://streak-stats.demolab.com?user=TSR0705&theme=react&hide_border=true" height="170"/>
+
+  <!-- OVERALL METRICS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TSR0705&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+
+</div>
+
+<br>
+
+<!-- LANGUAGE CARD -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSR0705&layout=compact&theme=react&hide_border=true&langs_count=10" height="190"/>
 </div>
 
 ---
